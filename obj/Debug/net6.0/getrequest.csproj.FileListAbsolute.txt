@@ -1,0 +1,17 @@
+C:\projects\getrequest\bin\Debug\net6.0\getrequest.exe
+C:\projects\getrequest\bin\Debug\net6.0\getrequest.deps.json
+C:\projects\getrequest\bin\Debug\net6.0\getrequest.runtimeconfig.json
+C:\projects\getrequest\bin\Debug\net6.0\getrequest.dll
+C:\projects\getrequest\bin\Debug\net6.0\getrequest.pdb
+C:\projects\getrequest\obj\Debug\net6.0\getrequest.csproj.AssemblyReference.cache
+C:\projects\getrequest\obj\Debug\net6.0\getrequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\getrequest\obj\Debug\net6.0\getrequest.AssemblyInfoInputs.cache
+C:\projects\getrequest\obj\Debug\net6.0\getrequest.AssemblyInfo.cs
+C:\projects\getrequest\obj\Debug\net6.0\getrequest.csproj.CoreCompileInputs.cache
+C:\projects\getrequest\obj\Debug\net6.0\getrequest.dll
+C:\projects\getrequest\obj\Debug\net6.0\refint\getrequest.dll
+C:\projects\getrequest\obj\Debug\net6.0\getrequest.pdb
+C:\projects\getrequest\obj\Debug\net6.0\getrequest.genruntimeconfig.cache
+C:\projects\getrequest\obj\Debug\net6.0\ref\getrequest.dll
+C:\projects\getrequest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\projects\getrequest\obj\Debug\net6.0\getrequest.csproj.CopyComplete
