@@ -1,6 +1,6 @@
 # getrequest
 
-The purpose of this reposiotry is only to practice how to read json files throughout c# + dotnet.
+The purpose of this repository is only to practice how to read json files throughout c# + dotnet.
 
 we can use these web pages: 
 
