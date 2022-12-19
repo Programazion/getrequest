@@ -55,5 +55,5 @@ https://www.newtonsoft.com/json
 
 So, remeber to add the package of Newtonsoft.Json with the command word
 
-Using Newsoftton.Json();
+Using Newsoftton.Json;
 
