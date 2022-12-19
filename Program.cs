@@ -8,7 +8,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            string API_URL = "https://jsonplaceholder.typicode.com/posts";
+            string API_URL = "https://jsonplaceholder.typicode.com/posts?_limit =5";
             var client = new WebClient();
             var json = client.DownloadString(API_URL);
             dynamic posts = JsonConvert.DeserializeObject(json);
